@@ -1,0 +1,8 @@
+int get_int() {
+    return 64;
+}
+
+void main() {
+    int a = get_int();
+    print(a);
+}
